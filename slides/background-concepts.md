@@ -5,5 +5,4 @@
 ## Economies of scale
 <hr>
 ## Conway's law
-<hr>
 

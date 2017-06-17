@@ -2,23 +2,32 @@
     {
         "filename": "index.md",
         "attr": {
-            "data-separator-vertical": "<hr>",
-            "data-charset": "iso-8859-15"
+            "data-separator-vertical": "<hr>"
         }
     },
     "agenda.md",
     {
         "filename": "background-concepts.md",
         "attr": {
-            "data-separator-vertical": "<hr>",
-            "data-charset": "iso-8859-15"
+            "data-separator-vertical": "<hr>"
         }
     },
     {
         "filename": "microservices-timeline.md",
         "attr": {
-            "data-separator-vertical": "<hr>",
-            "data-charset": "iso-8859-15"
+            "data-separator-vertical": "<hr>"
+        }
+    },
+    {
+        "filename": "concepts.md",
+        "attr": {
+            "data-separator-vertical": "<hr>"
+        }
+    },
+    {
+        "filename": "reference-literature.md",
+        "attr": {
+            "data-separator-vertical": "<hr>"
         }
     },
     {
