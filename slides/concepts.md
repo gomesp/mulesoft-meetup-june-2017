@@ -6,6 +6,18 @@
 
 <hr>
 
+> Microservices are small, autonomous services that work together.
+
+<hr>
+
+> [...] architectural style is an approach to developing a single application as a suite of small services, each running in its own process and communicating with lightweight mechanisms [...]
+
+<hr>
+
+> [...] services are built around business capabilities and independently deployable by fully automated deployment [...]
+
+<hr>
+
 ## Risks and benefits
 
 <hr>
