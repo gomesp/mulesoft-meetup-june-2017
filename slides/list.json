@@ -3,6 +3,13 @@
     "agenda.md",
     "background-concepts.md",
     {
+        "filename": "microservices-timeline.md",
+        "attr": {
+            "data-separator-vertical": "<hr>",
+            "data-charset": "iso-8859-15"
+        }
+    },
+    {
         "attr": {
             "data-background": "resources/images/end.jpg"
         }
