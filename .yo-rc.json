@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "The microservices evolution",
+    "packageVersion": "1.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "gomesp",
+    "githubRepository": "mulesoft-meetup"
+  }
+}
