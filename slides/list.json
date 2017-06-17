@@ -1,7 +1,13 @@
 [
     "index.md",
     "agenda.md",
-    "background-concepts.md",
+    {
+        "filename": "background-concepts.md",
+        "attr": {
+            "data-separator-vertical": "<hr>",
+            "data-charset": "iso-8859-15"
+        }
+    },
     {
         "filename": "microservices-timeline.md",
         "attr": {
