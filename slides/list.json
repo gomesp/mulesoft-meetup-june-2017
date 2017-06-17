@@ -1,1 +1,5 @@
-["index.md"]
+[
+    "index.md",
+    "agenda.md",
+    "background-concepts.md"
+]
