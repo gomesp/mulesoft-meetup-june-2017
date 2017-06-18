@@ -1,6 +1,8 @@
 ## So, again, why microservices? 
 
-### Independent DURS (Deploy, Update, Replace, Scale): Each service can be independently deployed, updated, replaced, and scaled. <!-- .element: class="fragment fade-in" -->
+<hr>
+
+### Independent Deploy, Update, Scale
 
 <hr>
 

@@ -54,6 +54,8 @@ Note:
 
 ### But know what are the strategies for breaking it apart <!-- .element: class="fragment fade-in" -->
 
+### Embrace microservices incrementally <!-- .element: class="fragment fade-in" -->
+
 <hr>
 
 ### Identify the contexts
