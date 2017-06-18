@@ -24,6 +24,12 @@
 
 ## Why microservices?
 
+* Massive regression testing cycle for each software iteration <!-- .element: class="fragment fade-in" -->
+* Monoliths equals large surface attack area <!-- .element: class="fragment fade-in" -->
+* Because one part of the application has strict change control, the entire application needs to be under strict change control <!-- .element: class="fragment fade-in" -->
+* Time-to-market is slow <!-- .element: class="fragment fade-in" -->
+
+Note:
 * Security: "Insecure applications hidden behind firewalls make you feel secure until the breach happens..."
 * Change control: "Because one part of the monolithic application and database holds sensitive data, all of it is subject to the most rigorous policies..."
 

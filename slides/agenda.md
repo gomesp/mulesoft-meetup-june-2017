@@ -1,5 +1,12 @@
-##  Agenda
+##  Today
 
+* Some background concepts <!-- .element: class="fragment fade-in" -->
+* The microservices timeline <!-- .element: class="fragment fade-in" -->
+* Microservices risk-benefits <!-- .element: class="fragment fade-in" -->
+* When should they be used <!-- .element: class="fragment fade-in" -->
+* Demo <!-- .element: class="fragment fade-in" -->
+
+Note:
 * Important background concepts
 * What are microservices?
 * Microservices vs. SOA vs. Monoliths
