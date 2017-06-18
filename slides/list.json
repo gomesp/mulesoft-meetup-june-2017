@@ -24,6 +24,7 @@
             "data-separator-vertical": "<hr>"
         }
     },
+    "demo.md",
     {
         "filename": "reference-literature.md",
         "attr": {

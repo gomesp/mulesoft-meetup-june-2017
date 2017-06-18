@@ -1,4 +1,4 @@
-##  Today
+##  Agenda
 
 * Some background concepts <!-- .element: class="fragment fade-in" -->
 * The microservices timeline <!-- .element: class="fragment fade-in" -->
