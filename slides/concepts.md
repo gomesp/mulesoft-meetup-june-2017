@@ -42,6 +42,8 @@ Note:
 
 ## Risks and benefits
 
+* TODO: What are the pros and cons of a microservices architecture
+
 <hr>
 
 ## Is my organisation ready to adopt microservices?
