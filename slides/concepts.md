@@ -1,22 +1,6 @@
-## Why microservices?
-
-* Microservices are an answer to the challenges with monoliths. <!-- .element: class="fragment fade-in" -->
-* Monoliths can be difficult to deploy. So we don't deploy very often. <!-- .element: class="fragment fade-in" -->
-* Massive regression testing cycle for each software iteration. <!-- .element: class="fragment fade-in" -->
-* Security risk. Monoliths have a large attack surface. <!-- .element: class="fragment fade-in" -->
-* If a part of the application has strict change control, then everything must be under strict change control. <!-- .element: class="fragment fade-in" -->
-* Scalability must consider the entire compute requirements. <!-- .element: class="fragment fade-in" -->
-* Time-to-market is slow. <!-- .element: class="fragment fade-in" -->
-
-Note:
-* Security: "Insecure applications hidden behind firewalls make you feel secure until the breach happens..."
-* Change control: "Because one part of the monolithic application and database holds sensitive data, all of it is subject to the most rigorous policies..."
-
-<hr>
-
 ## So, again, why microservices? 
 
-### Microservices are built and managed at scale <!-- .element: class="fragment fade-in" -->
+### Independent DURS (Deploy, Update, Replace, Scale): Each service can be independently deployed, updated, replaced, and scaled. <!-- .element: class="fragment fade-in" -->
 
 <hr>
 
@@ -36,7 +20,7 @@ Note:
 
 <hr>
 
-### Time to market is fast. Built around small teams.
+### Time to market is fast. Built around functional full-stack teams.
 
 <hr>
 
