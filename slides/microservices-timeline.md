@@ -1,7 +1,3 @@
-##  Microservices timeline
-
-<hr>
-
 ## Why microservices?
 
 * Microservices are an answer to the challenges with monoliths. <!-- .element: class="fragment fade-in" -->
@@ -15,6 +11,10 @@
 Note:
 * Security: "Insecure applications hidden behind firewalls make you feel secure until the breach happens..."
 * Change control: "Because one part of the monolithic application and database holds sensitive data, all of it is subject to the most rigorous policies..."
+
+<hr>
+
+##  Microservices timeline
 
 <hr>
 
@@ -79,6 +79,18 @@ Note:
 * Confidence in the tests
 * http://www.plantuml.com/plantuml/png/RL3B3e8m4BptA_e3_0A9G4XCn0lX0sfPjGbspLBaOFntIy3Q1uSUTcQwEpFY1jhmWd0UWPZ4nnFrWhG62Mf2RReZ4sJKLKZ36zGuA7FdRyRvNrnQGGlqKX82lBCxz_23b3Xfz-N3M2-Ck8WHt8Lg0nYJ0quzFyDSWp0JGQCauRX-ZNnOaSzQpksDgAe83PMdnSLM0y-oF0yRy8UL_XbbNlYLyLE7ILFU5HhiTE7Jit74Q5v5InpxqdExwgIQBm00
 * Anticorruption Layer: A Domain Service (7) can be defined in the downstream Context for each type of Anticorruption Layer. You may also put an Anticorruption Layer behind a Repository (12) interface. If using REST, a client Domain Service implementation accesses a remote Open Host Service. Server responses produce representations as a Published Language. The downstream Anticorruption Layer translates representations into domain objects of its local Context. This is where, for example, the Collaboration Context asks the Identity and Access Context for a User-in-Moderator-role resource. It might receive the requested resource as XML or JSON, and then translates to a Moderator, which is a Value Object. The new Moderator instance reflects a concept in terms of the downstream model, not the upstream model.
+
+<hr>
+
+### ACL?
+#### Yeah, The Anti-Corruption Layer!  <!-- .element: class="fragment fade-in" -->
+
+Note:
+* According to ACL, complete translation of the old model must be performed outside of the new service. In other words, the new microservice has its API, data formats, etc., whereas ACL adapts input provided by the monolith to the new model. 
+
+<hr>
+
+![](resources/images/breaking-monolith-2.png)
 
 <hr>
 
