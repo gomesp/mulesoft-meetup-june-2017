@@ -18,7 +18,8 @@
 
 <hr>
 
-### Services are resilient and built to tolerate external failure
+### Services are resilient and built 
+### to tolerate external failure
 
 | Service Consumers  | Service Publishers |
 | ------------- | ------------- |

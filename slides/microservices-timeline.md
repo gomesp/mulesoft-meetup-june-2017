@@ -140,9 +140,34 @@ Note:
 
 ### 2017 - Microservices are becoming reactive
 
+![](resources/images/microlith.jpg)
+
+* A microlith is service where synchronous method calls have been turned into synchronous RPC calls.
+* Maintains the strong coupling, but with higher latency.
+
+Note:
+
 * The monolith had to have synchronous communication
 * Microservices don't really need sync for everything...
 * REST was abused = tight coupling
 
 > It is unfortunate that REST is widely considered as the default microservice communication protocol. It's important to understand that REST is mostly synchronous which makes it a very unfitting default protocol for inter-service communication.
 > REST might be a reasonable option when there will only ever be a handful of services, or in situations between specific tightly coupled services. But use it sparingly, outside the regular request/respnse cycle, knowing that it is always at the expense of decoupling, system evolution, scale and availability.
+
+<hr>
+
+## NOT RESILIENT
+## NOT ELASTIC <!-- .element: class="fragment fade-in" -->
+
+<hr>
+
+### How can we manage 
+### distributed, resilient, elastic systems? 
+
+* Events-first Domain Driven Design for help  <!-- .element: class="fragment fade-in" -->
+* Base your microservice on asynchronous message passing  <!-- .element: class="fragment fade-in" -->
+
+<hr>
+
+|![](resources/images/reactive-microservices-architecture-book.png)  | ![](resources/images/ddd-book.jpg)  <!-- .element height="74%" width="74%" -->|
+| --- | --- |
