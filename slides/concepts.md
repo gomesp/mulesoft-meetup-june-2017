@@ -56,3 +56,13 @@ Note:
 * Storage: It's easy to get the code out. Not so easy to get the database out.
 * Edge: access to the user session information
 * Authentication/Authorisation: how do we determine who's the user, and does it have access to?
+
+<hr>
+
+## Monoliths benefit from 
+## economies of scope
+
+<hr>
+
+## Microservices benefit from 
+## economies of scale

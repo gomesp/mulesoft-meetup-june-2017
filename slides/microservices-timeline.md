@@ -18,7 +18,7 @@ Note:
 
 <hr>
 
-### 2014 - Michael Fowler popularises the microservice term
+### 2014 - Martin Fowler popularises the microservice term
 
     https://martinfowler.com/articles/microservices.html
 
