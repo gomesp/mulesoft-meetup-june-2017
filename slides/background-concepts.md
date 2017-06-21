@@ -1,6 +1,23 @@
 ##  Background concepts
 <hr>
 
+
+## Conway's law
+#### Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. 
+
+Melvyn Conway, 1967
+
+<hr>
+
+![](resources/images/conways-law.png)
+
+
+<hr>
+
+![](resources/images/functional-organisation.png)
+
+<hr>
+
 ## Economies of scale
 > Factors that cause the average cost of building something to fall as the volume increases.
 
@@ -16,18 +33,3 @@
 * Single database to store all data <!-- .element: class="fragment fade-in" -->
 * Shared libraries for all components <!-- .element: class="fragment fade-in" -->
 
-<hr>
-
-## Conway's law
-#### Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization's communication structure. 
-
-Melvyn Conway, 1967
-
-<hr>
-
-![](resources/images/conways-law.png)
-
-
-<hr>
-
-![](resources/images/functional-organisation.png)
